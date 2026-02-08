@@ -126,7 +126,7 @@ const Hero = () => {
               Start Playing
               </Link>
             </Button>
-            <Button variant="discord" size="xl" onClick={() => window.open("https://discord.com/users/nexveior", "_blank")}>
+            <Button variant="discord" size="xl" onClick={() => window.open("https://discord.gg/YnewHk5t", "_blank")}>
               Join Discord
             </Button>
           </motion.div>

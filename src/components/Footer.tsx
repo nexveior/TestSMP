@@ -26,7 +26,7 @@ const Footer = () => {
               Server Status: Online
             </div>
             <a
-              href="https://YOUR-PORTFOLIO-URL-HERE"
+              href="https://nexveior.github.io/NexveiorPortfolio/"
               target="_blank"
               rel="noopener noreferrer"
               className="
@@ -79,7 +79,7 @@ const Footer = () => {
           >
             <h4 className="text-lg font-bold text-foreground mb-4">Connect With Us</h4>
             <div className="flex flex-col gap-3">
-              <Button variant="discord" className="justify-start" onClick={() => window.open("https://discord.com/users/nexveior", "_blank")}>
+              <Button variant="discord" className="justify-start" onClick={() => window.open("https://discord.gg/YnewHk5t", "_blank")}>
                 <MessageCircle className="w-4 h-4 mr-2" />
                 Join Discord
               </Button>
